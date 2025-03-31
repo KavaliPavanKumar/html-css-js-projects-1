@@ -2,7 +2,7 @@
 
 A curated list of web development projects using HTML, CSS, and JavaScript from CodeWithCurious and FoolishDeveloper.
 
-## 💰 Exclusive Discounts on Coding Courses  
+## 💰 Exclusive Discounts on Coding Courses 
 
 | Platform       | Discount Offer | Link |
 |---------------|---------------|------|
