@@ -375,9 +375,3 @@ Cool CSS effects, animations, and interactive UI elements.
 - [20+ CSS Animated Backgrounds Effects (Code + Demo)](https://foolishdeveloper.com/css-animated-backgrounds/)
 
 
-
-🔗 **Follow for More**  
-For more such tutorials and free project codes, visit:  
-👉 [CodeWithCurious.com](https://codewithcurious.com/)  
-📺 [YouTube](https://www.youtube.com/channel/UCn7-f4-8R9-NnBxtZ5b8EVw)  
-📷 [Instagram](https://www.instagram.com/curious_.programmer/)
